@@ -4,6 +4,10 @@
 
 database helper for personal server.
 
+## usage
+
+[Example](./example.ts)
+
 ## env
 
 1. node js - v18.17.0
