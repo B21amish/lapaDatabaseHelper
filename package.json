@@ -1,0 +1,25 @@
+{
+  "name": "lapadatabasehelper",
+  "version": "0.0.1",
+  "description": "database helper for personal server.",
+  "main": "index.ts",
+  "type": "module",
+  "types": "types",
+  "scripts": {
+    "test": "",
+    "dev": "tsc index.ts && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/B21amish/lapaDatabaseHelper"
+  },
+  "author": "Amish Palkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B21amish/lapaDatabaseHelper/issues"
+  },
+  "homepage": "https://github.com/B21amish/lapaDatabaseHelper#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
