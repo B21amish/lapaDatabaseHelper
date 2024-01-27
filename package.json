@@ -2,12 +2,10 @@
   "name": "lapadatabasehelper",
   "version": "0.0.1",
   "description": "database helper for personal server.",
-  "main": "index.ts",
-  "type": "module",
-  "types": "types",
+  "main": "dist/index.js",
   "scripts": {
     "test": "",
-    "dev": "tsc index.ts && node index.js"
+    "dev": "tsc && node dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +18,6 @@
   },
   "homepage": "https://github.com/B21amish/lapaDatabaseHelper#readme",
   "devDependencies": {
-    "ts-node": "^10.9.2"
+    "typescript": "^5.3.3"
   }
 }

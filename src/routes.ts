@@ -1,4 +1,4 @@
-import config from "../utils/config";
+import config from "./utils/config";
 
 const temp = () => {
   console.log("Hello");
