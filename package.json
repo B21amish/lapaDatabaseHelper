@@ -1,8 +1,8 @@
 {
   "name": "lapadatabasehelper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "database helper for personal server.",
-  "main": "dist/index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "",
     "dev": "tsc && node dist/index.js"
