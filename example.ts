@@ -1,3 +1,5 @@
-import { temp, temp2 } from "lapadatabasehelper/src/routes";
-temp();
-temp2();
+import { insertRows, getRows, editRows, deleteRows } from "lapadatabasehelper";
+insertRows();
+getRows();
+editRows();
+deleteRows();

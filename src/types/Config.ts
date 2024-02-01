@@ -1,5 +1,7 @@
 interface Config {
-  ip: String;
+  lapaDatabaseProtocol: String;
+  lapaDatabaseIp: String;
+  lapaDatabasePort: String;
 }
 
 export default Config;

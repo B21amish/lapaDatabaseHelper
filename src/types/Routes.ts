@@ -1,5 +1,11 @@
 type RowData = {
-  [x: string]: any;
+  [x: string]: string;
 };
 
 type Rows = RowData[];
+
+type Filters = {
+  [x: string]: string;
+};
+
+export { Rows, RowData, Filters };
