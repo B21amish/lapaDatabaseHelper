@@ -15,6 +15,14 @@ database helper for personal server.
 
 ## changelog
 
+### v0.0.3
+
+- Finalize folder structure.
+
+### v0.0.2
+
+- Testing.
+
 ### v0.0.1
 
 - initial implementation.

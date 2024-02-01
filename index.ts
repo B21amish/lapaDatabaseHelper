@@ -44,4 +44,4 @@
 //     console.error(error);
 //   });
 
-export * from "./routes";
+export * from "./src/routes";
