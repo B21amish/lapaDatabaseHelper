@@ -15,6 +15,10 @@ database helper for personal server.
 
 ## changelog
 
+### v0.0.4
+
+- Added functions to call lapa_database service.
+
 ### v0.0.3
 
 - Finalize folder structure.

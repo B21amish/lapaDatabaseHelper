@@ -1,6 +1,6 @@
 {
   "name": "lapadatabasehelper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "database helper for personal server.",
   "main": "index.ts",
   "scripts": {
